@@ -1,0 +1,8 @@
+*
+!.gitignore
+!index.html
+!privacy.html
+!style.css
+!README.md
+!.nojekyll
+!google*.html
